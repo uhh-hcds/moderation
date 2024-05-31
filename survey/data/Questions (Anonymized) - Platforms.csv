@@ -1,0 +1,93 @@
+,Platforms,,,,,,,,,,,,,,
+QUESTIONS,X,Facebook,Telegram,WhatsApp,Instagram,Reddit,Vk,Odnoklassniki,TikTok,YouTube,LinkedIn,Snapchat,GAB,ShareChat,Koo
+Company's Headquarter country,USA,USA,"Dubai, United Arab Emirates",USA,USA,USA,Russia,Russia,"Singapore, USA","San Bruno, CA, USA",USA,USA,USA,India,India
+Number of active users (per month) (MAU),~500m,3b,800m,2.78b,2b,850m,80m,40m,1.7b,2.7b,1B,750m,0.6m,180 Mn,3.1Mn (not mentioned clearly)
+Plattform access & verification,,,,,,,,,,,,,,,
+Is there an age limit for account creation at the platforms?,Yes,Yes,USA,Yes,Yes,Yes,"Yes, 14","Yes, 14",Yes,"Yes, 13",Yes,Yes,Yes,No,Yes
+Is the content adjusted to kids? (parental control?),Yes,Yes,No,Yes,Yes,adult content can be disabled,Yes,Yes (it must be adjusted by the creators of the content according to the rules),Yes,Yes,,Yes,NA,NA,no (Just mentioned a couple of policies for Children)
+Is the user's age verified?,No,Yes,No,No,Yes,No,not directly,not directly,No,Yes,No,No,No,No,No
+Is there phone or ID verification?,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,"Yes, but not required",Yes,No,"Yes, but not required","Yes, but not required"
+Does the platform allow to create an pseudonymous account? (e.g. username + e-mail verification),Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes (username + Mobile Verification),Yes (username + Mobile Verification)
+"Do they allow creating an anonymous account? (no mail verification, no identification at all)",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Regulations,,,,,,LINK,,,,,,,,,
+Are the regulations accesible from the front page?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Is the regulations language automatically adjusted to the users location?,No,Yes,"no, English only",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes ,Yes
+Is the platform's policy adjusted to the countries regulation?,Looks like no,Looks like Yes,? This question is very hard to answer,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,?,?,No,Yes,Yes
+Is there a definition of hate speech? (Put a link in the comment),Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Content Moderation,,,,,,LINK,,,,,,,,,
+"Are there unmoderated, private groups, channels, or chats?",No,Yes,Yes,Yes,Yes,no (but I guess chats are unmoderated),Yes,Yes,Yes,??,No,Yes,Yes,Yes,Yes
+Is the platform moderated by users or groups? (self-moderation),Yes,"not the whole platform, but Groups are moderated by users and they can report what they found harmful",Yes,"not the whole platform, but Groups are moderated by users and they can report what they found harmful","not the whole platform, but Groups are moderated by users and they can report what they found harmful",Yes,Both moderated by users and the platform,Both,No,No,"not the whole platform, but LinkedIn Groups are also moderated by users",No,Users,not completely self-moderated.. Groups are controlled by admins / moderators.. Users can use report functionality.. Platform itself look after moderation actively.,Partially self-moderated
+Is the platform moderated by platform employees?,Yes,Yes,No,No,Yes,Yes,Yes,Yes (seems like it),Yes,,Yes,"Yes, but not everything",No,Yes,Yes
+Does the platform have a team of moderators dedicated for the country?,Looks like no,"Looks like Yes, but info cannot be found directly",No,No,"Looks like Yes, but info cannot be found directly",?,?,?,Yes,"Yes, at least for many countries",?,?,No,Likely,Yes
+Do they have automoderation? (pro-active moderation),Yes,Yes,No,No,Yes,Yes,Yes,no information,Yes,Yes,Yes,"Yes, but only in ""high-reach"" surfaces (Spotlight, Discover)",No,Yes,Yes
+Does the platform have community guidelines? (in addition to terms of service?),Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Preventive Measures,,,,,,,,,,,INFO,,,,
+Is there a reporting functionality?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NEW: Do they label content as offensive / sensitive?,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No
+Do they encourage counter hate speech?,No,Yes,No,No,"no (at Insta, there are no specifics about that, but in Meta, Yes)",No,Yes,Yes,not clear,"maybe, they have warning",Maybe?,No,No,Unclear,No
+Do they have message detoxification functionality?,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Other,,,,,,,,,,,,,,,
+Is it possible to create a group without administrator approval?,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,not applicable,Yes,Yes,Yes,Yes,NA
+"Can you request data from the platform for hate speech case investigation? (usually called ""Law Enforcement"")",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+Data API access for Research,Yes,"Yes, by request",No,No,Yes (via all Meta API),Yes,No,No,Yes,,Yes,No,No,No,Yes
+Verification of public persons / organizations / media companies?,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Extra rules for verified organizations etc,Yes,Yes,No,Yes,Yes,No,?,?,Yes,No,Yes,Yes,No,No,No
+Hate speech definition of the platform,"You may not directly attack other people on the basis of race, ethnicity, national origin, caste, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease. 
+We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass. This includes, but is not limited to media or text that refers to or depicts:
+genocides, (e.g., the Holocaust);
+lynchings.","We define hate speech as a direct attack against people – rather than concepts or institutions – on the basis of what we call protected characteristics: race, ethnicity, national origin, disability, religious affiliation, caste, sexual orientation, sex, gender identity and serious disease. We define attacks as violent or dehumanising speech, harmful stereotypes, statements of inferiority, expressions of contempt, disgust or dismissal, cursing and calls for exclusion or segregation. We also prohibit the use of harmful stereotypes, which we define as dehumanising comparisons that have historically been used to attack, intimidate or exclude specific groups, and that are often linked with offline violence. We consider age a protected characteristic when referenced along with another protected characteristic. We also protect refugees, migrants, immigrants and asylum seekers from the most severe attacks, though we do allow commentary and criticism of immigration policies. Similarly, we provide some protections for characteristics such as occupation, when they're referenced along with a protected characteristic. Sometimes, based on local nuance, we consider certain words or phrases as frequently used proxies for PC groups.
+
+We also prohibit the usage of slurs that are used to attack people on the basis of their protected characteristics. However, we recognise that people sometimes share content that includes slurs or someone else's hate speech to condemn it or raise awareness. In other cases, speech, including slurs, that might otherwise violate our standards can be used self-referentially or in an empowering way. Our policies are designed to allow room for these types of speech, but we require people to clearly indicate their intent. If the intention is unclear, we may remove content.",No,No,The same as Facebook,"We do not tolerate the harassment, threatening, or bullying of people on our site; nor do we tolerate communities dedicated to this behavior.
+
+Reddit is a place for conversation, and in that context, we define this behavior as anything that works to shut someone out of the conversation through intimidation or abuse, online or off. Depending on the context, this can take on a range of forms, from directing unwanted invective at someone to following them from subreddit to subreddit, just to name a few. Behavior can be harassing or abusive regardless of whether it occurs in public content (e.g. a post, comment, username, subreddit name, subreddit styling, sidebar materials, etc.) or private messages/chat.
+
+Being annoying, downvoting, or disagreeing with someone, even strongly, is not harassment. However, menacing someone, directing abuse at a person or group, following them around the site, encouraging others to do any of these actions, or otherwise behaving in a way that would discourage a reasonable person from participating on Reddit crosses the line.
+
+Rule 1: Remember the human. Reddit is a place for creating community and belonging, not for attacking marginalized or vulnerable groups of people. Everyone has a right to use Reddit free of harassment, bullying, and threats of violence. Communities and people that incite violence or that promote hate based on identity or vulnerability will be banned.
+
+Marginalized or vulnerable groups include, but are not limited to, groups based on their actual and perceived race, color, religion, national origin, ethnicity, immigration status, gender, gender identity, sexual orientation, pregnancy, or disability. These include victims of a major violent event and their families. 
+
+While the rule on hate protects such groups, it does not protect those who promote attacks of hate or who try to hide their hate in bad faith claims of discrimination.
+
+Some examples of hateful activities that would violate the rule:
+
+Subreddit community dedicated to mocking people with physical disabilities. 
+Post describing a racial minority as sub-human and inferior to the racial majority.
+Comment arguing that rape of women should be acceptable and not a crime.
+Meme declaring that it is sickening that people of color have the right to vote. 
+Additionally, when evaluating the activity of a community or an individual user, we consider both the context as well as the pattern of behavior. ","any information that:
+(a) contains threats, calls for violence, including hidden ones, approval and encouragement of violent actions, discredits, insults, discredits honor and dignity or business reputation, or violates the privacy of other Users or third parties;
+(b) violates the rights of minors;
+(c) is vulgar or obscene, contains pornographic images and texts or scenes of a sexual nature involving minors;
+(d) contains scenes of inhumane treatment of animals;
+(e) contains a description of the means and methods of suicide, any incitement to commit it;
+(f) promotes and/or promotes incitement of racial, religious, ethnic hatred or enmity based on a particular gender, orientation, as well as other individual characteristics and characteristics of a person (including issues of his health);
+(g) contains extremist materials;
+(h) promotes criminal activity or contains advice, instructions or guidelines for committing criminal acts;","A lot of limitations, actually, here is translated part of the rules. It is prohibited to create or post or repost any content that is: contain threats, calls for violence, the commission of illegal acts, antisocial, immoral acts, as well as the commission of any other actions contrary to the fundamentals of law and order and morality;post messages on the Social Network containing obscene words and expressions; carry out propaganda or agitation that incites social, racial, national or religious hatred and enmity, propaganda of war, social, racial, national, religious or linguistic superiority, disseminate other information prohibited for dissemination by applicable law;","In the end, there is no direct definition, but listed actions how they fight hate speech.","Hate speech is not allowed on YouTube. We don’t allow content that promotes violence or hatred against individuals or groups based on any of the following attributes, which indicate a protected group status under YouTube’s policy:
+
+    Age
+    Caste
+    Disability
+    Ethnicity
+    Gender Identity and Expression
+    Nationality
+    Race
+    Immigration Status
+    Religion
+    Sex/Gender
+    Sexual Orientation
+    Victims of a major violent event and their kin
+    Veteran Status","Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content that attacks, denigrates, intimidates, dehumanizes, incites or threatens hatred, violence, prejudicial or discriminatory action against individuals or groups because of their actual or perceived race, ethnicity, national origin, caste, gender, gender identity, sexual orientation, religious affiliation, or disability status.
+
+Examples of hateful and derogatory content
+We may label rather than remove content that evokes hateful rhetoric (including slurs) in the context of counter speech, reclamation, or members’ personal experiences with racism, sexism, ableism, and other forms of prejudice or discrimination.
+We also allow members to call out actual or perceived hateful, prejudicial, or discriminatory conduct, provided such content doesn’t otherwise violate our Harassing and inflammatory content policies.","Hateful Content, Terrorism, and Violent Extremism
+Terrorist organizations, violent extremists, and hate groups are prohibited from using our platform. We have no tolerance for content that advocates or advances terrorism or violent extremism.
+Hate speech or content that demeans, defames, or promotes discrimination or violence on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, disability, or veteran status, immigration status, socio-economic status, age, weight, or pregnancy status is prohibited.",Offensive content,"Hate Speech and Propaganda
+Content that promotes violent behaviour against an individual or a group of individuals, intends to intimidate, target or demean any particular religion, race, caste, ethnicity, community, nationality, disability (physical or mental), diseases or gender, is prohibited. Any kind of content which produces hatred or has the intention of creating or spreading hatred or hate propaganda along the lines of including, but not limited to religion, caste, ethnicity, community, sexual orientation, or gender identity is also not allowed. We do not entertain content that spreads discrimination, intends to justify violence based on the above-mentioned attributes and refers to an individual or a group of individuals as inferior in any sense or with negative connotations.
+We urge you to refrain from incendiary commentary and publishing theories or hateful ideologies that may cause outrage to our users and influence them negatively. We may permit such content which intends to raise awareness about these issues or challenge it, subject to clear intention of posting such content on the Platform.","Hate Speech and Discrimination
+Do not post hateful or discriminatory content on Koo.
+Treat others on Koo with dignity, respect, and a sense of empathy. We encourage valid and well-intentioned expressions of healthy disagreement on the platform. We do not allow any content that is hateful, contains personal attacks and appeals to prejudices. Any form of discourteous, impolite, rude statements made to express disagreement that are intended to harm another user or induce them mental stress or suffering must be avoided.
+You are not permitted to use hateful images or symbols in your profile image or profile header. You must not alter your username, display name, or profile bio in a manner that it appears you are engaging in abusive behavior or which could be reasonably construed as causing harassment to other user(s) or expressing hate towards a person or group.
+Examples of hateful or discriminatory speech include comments which encourage violence; are racially or ethnically objectionable; attempts to disparage anyone based on their nationality; sex/gender; sexual orientation; religious affiliation; political affiliation; any disability; or any disease they might be suffering from.
+Please note that this is not a complete list, and there could be other instances that could violate this guideline."

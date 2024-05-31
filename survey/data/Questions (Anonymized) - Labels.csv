@@ -1,0 +1,69 @@
+Label,Intensity (0-10),Definition,Source (Paper or website),Should be considered or not ?
+Aggressive ,,"A message is considered aggressive if it (implicitly or explicitly) presents, incites, threatens, suggests or alludes to:
+1. attitudes, violent actions,  hostility or commission of offenses against women;
+2. justify or legitimize an aggressive action against women.",https://github.com/msang/hateval/blob/master/annotation_guidelines.md,
+Aggressive ,,"1. Nicknames Nickname that the author will assign to the person who is
+directed the message, alluding to a disability or defect.
+2. Jokes Jokes are messages that will always be considered offensive, when
+the intention is to humiliate or attack the recipient.
+3. Derogatory adjectives Words that describe a person with the inten-
+tion to humiliate and belittle.
+4. Rudeness As long as they are not used in an informal context.",https://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf,
+Abusive/Offensive,,"Profanity, strongly impolite, rude or vulgar language expressed with fighting or hurtful words in order to insult a targeted individual or group
+Posts which are degrading, dehumanizing, insulting an individual, threatening with violent acts are categorized into this category.",https://aclanthology.org/2020.emnlp-main.197.pdf,
+Sexism / Gender issues,,"Language used to express hatred to-wards a targeted individual or group based on gen-der or sexual orientation
+Attacks on people based on their gender (identity), often with a focus on women. ",https://aclanthology.org/2020.emnlp-main.197.pdf,
+Religious Hate,,Language used to express hatred towards a targeted individual or group based on their religious beliefs or lack of any religious beliefs and the use of religion to incite violence or propagate hatred against a targeted individuals or group,https://aclanthology.org/2020.emnlp-main.197.pdf,
+Profane,,"The use of vulgar, foul or obscene language without an intended target.
+Usage of sexually explicit and inappropriate language.
+Unacceptable language in the absence of insults and abuse. This typically concerns the usage of swearwords and cursing.",https://aclanthology.org/2020.emnlp-main.197.pdf,
+Physical handicap,,,,
+Mental handicap,,,,
+Socio-economical status,,,,
+Political,,,,
+Racism,,"Attacks on people based on their origin, ethnicity, nation (typ. meant to incite hatred).",,
+Threat,,Announcements of the violation of the physical integrity of the victim.,,
+Blackmail,,,,
+Insult,,"Insult refers to language that explicitly attacks the author of the hateful comment, including 
+(a) vulgar insults (Holgate et al., 2018; Habernal et al., 2018): “your a**hole”; 
+(b) intelligence insults (Habernal et al., 2018; Vidgen et al., 2021): “so stupid I can’t help you”;
+(c) dehumanization (Leader Maynard and Benesch, 2016; Vidgen et al., 2021): “you are just trash”; or 
+(d) threatening language (Zampieri et al., 2019): “beat me if you dare”. Using insults is usually considered the worst way to disagree with hate speech (Graham, 2008).
+
+Denigrating, insolvent or contemptuous statements (left without further specification).",https://aclanthology.org/2023.emnlp-main.450.pdf,
+Body Shaming,,,,
+Curse,,,,
+Exclusion,,,,
+,,,,
+Defamation,,Defamation is a statement that injures a third party's reputation,,
+Harassment / Mobbing,,"If someone is abusing, insulting, or otherwise harming you on a regular basis, it's called harassment.",,
+"Targeted insult, Insult attacking relatives",,,,
+Extremism,,,,
+Toxicity (dimension),,,,
+Disrespect,,"
+The definition for disrespect is to insult someone or display rude behavior by showing a lack of respect. Disrespect can come in many forms but centers around the idea that another person's feelings have been impolitely disregarded. Acts of disrespect are usually ill-mannered and malicious in intent.",,
+Fear,,"whether the annotators feel anger, sadness, fear or nothing about the tweets.
+
+Fear speech, as the name suggests, attempts to incite fear about a target community. Although subtle, it might be highly effective, often pushing communities toward a physical conflict. Therefore, understanding their prevalence in social media is of paramount importance.",Multilingual and Multi-Aspect Hate Speech Analysis,
+Cyberbullying,,,,
+Violence,,,,
+socially unacceptable discourse (SUD),,,,
+Xenophobia,,the fear or dislike of anything which is perceived as being foreign or strange.,,
+accusation,,"Accusation refers to language that (a) blames or
+spells out the behavior or intention of the author
+of the hateful comment, including but not limited
+to lying (Holgate et al., 2018), trolling (Mihaylov
+and Nakov, 2016), ignorance (Jain et al., 2014),
+name-calling (Kenski et al., 2020), etc., (b) asks
+the author to leave the discussion, or (c) accuses
+the author of belonging to an affiliation or identity-
+based group (Vidgen et al., 2021) in a negative
+way (e.g., incels, radical right or left)",https://aclanthology.org/2023.emnlp-main.450.pdf,
+Sarcasm and Humor,,"Sarcasm and humor refers to language that uses
+sarcasm (Waseem and Hovy, 2016; Justo et al.,2014) or humor (Fortuna and Nunes, 2018; Gof-
+fredo et al., 2022) to address the author of the hate-
+ful comment. For example, “Keep trying! You will
+make a good comment eventually” uses sarcasm to
+mean the opposite of what it (explicitly) states.",https://aclanthology.org/2023.emnlp-main.450.pdf,
+"Types of discrimination:
+Job;PoliticalAttitude; PersonalEngagementandInterests;SexualIdentity;Physical,PsychologicalorMentalCharacteristics;Nationality;Religion;SocialStatus;World View;Ethnicity.",,,,

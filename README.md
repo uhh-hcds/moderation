@@ -1,1 +1,1 @@
-# Exploring Abusive SpeechRegulations andMitigation Strategies through Country, Platform, andResearch Perspectives
+# Exploring Abusive Speech Regulations and Mitigation Strategies through Country, Platform, and Research Perspectives
